@@ -8239,3 +8239,14 @@ footer p {
     font-size: 16px;
     border: 1px red;
 }
+
+.contact li {
+    padding: 0;
+}
+.contact li.media {
+    background: #fff none repeat scroll 0 0;
+    margin-top: 10px;
+}
+.contact li.media div.media-left {
+    padding-right: 10px ;
+}
