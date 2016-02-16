@@ -8239,7 +8239,15 @@ footer p {
     font-size: 16px;
     border: 1px red;
 }
-
+.footer-links {
+    margin-bottom: 0 !important;
+}
+.copyright {
+    height: 40px;
+}
+.copyright p {
+    font-size: 14px;
+}
 .contact li {
     padding: 0;
 }
@@ -8249,4 +8257,15 @@ footer p {
 }
 .contact li.media div.media-left {
     padding-right: 10px ;
+}
+.job-details ul {
+    padding-left: 5px;
+}
+.job-details ul li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+.job-dates {
+    style: inline;
+    float: right;
 }
