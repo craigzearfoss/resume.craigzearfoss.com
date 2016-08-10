@@ -8269,3 +8269,8 @@ footer p {
     style: inline;
     float: right;
 }
+
+.co-name {
+    white-space: nowrap;
+    vertical-align: middle;
+}
