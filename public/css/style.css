@@ -8273,3 +8273,7 @@ footer p {
 .co-name {
     font-weight: bold;
 }
+.co-location {
+    font-weight: bold;
+    float: right;
+}
