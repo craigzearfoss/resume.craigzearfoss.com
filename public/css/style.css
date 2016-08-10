@@ -8271,6 +8271,5 @@ footer p {
 }
 
 .co-name {
-    white-space: nowrap;
-    float: right;
+    font-weight: bold;
 }
