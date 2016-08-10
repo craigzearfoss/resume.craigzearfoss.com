@@ -8272,5 +8272,5 @@ footer p {
 
 .co-name {
     white-space: nowrap;
-    vertical-align: middle;
+    float: right;
 }
